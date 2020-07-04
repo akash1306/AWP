@@ -1,0 +1,1 @@
+This is a 3D model of the AWP Gun from Counter Strike Global offensive. The model is made and assembled in SolidWorks and is textured in Blender.
